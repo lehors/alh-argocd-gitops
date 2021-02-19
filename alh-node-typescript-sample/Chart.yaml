@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: alh-node-typescript-sample
+description: Chart to configure ArgoCD with the alh-node-typescript-sample project and its applications
